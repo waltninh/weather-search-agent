@@ -1,4 +1,4 @@
-# LangChain Single Agent
+# Weather & Search Agent
 
 A ReAct agent built with LangChain that can search the web and look up
 current weather. Two entrypoints share the same agent: a command-line
