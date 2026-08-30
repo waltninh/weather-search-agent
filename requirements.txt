@@ -1,0 +1,22 @@
+# Verified working on Python 3.14.5 (Windows).
+# LangChain 1.x: the legacy AgentExecutor / create_react_agent live in
+# langchain-classic, not in langchain itself.
+
+langchain==1.3.12
+langchain-core==1.4.9
+langchain-classic==1.0.8
+langchain-community==0.4.2
+
+# LLM provider (OpenAI-compatible gateway)
+langchain-openrouter==0.2.6
+
+# Tools
+tavily-python==0.8.0
+requests==2.34.2
+
+# Web UI for app.py
+streamlit==1.59.1
+
+# Config
+python-dotenv==1.2.2
+certifi==2026.6.17
