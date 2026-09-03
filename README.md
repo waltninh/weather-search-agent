@@ -107,4 +107,4 @@ because its verbose output shows the reasoning loop step by step.
 
 The ReAct prompt is written inline rather than pulled from LangChain Hub.
 `hub.pull()` now refuses public prompts by default, since a hub prompt is a
-serialized object that can carry executable configuration.
+serialized object that can carry executable configuration.#nct
